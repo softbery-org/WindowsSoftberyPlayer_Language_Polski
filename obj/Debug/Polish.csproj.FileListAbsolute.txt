@@ -1,0 +1,9 @@
+E:\Projects\Developing\WindowsSoftberyPlayer\pl_PL\bin\Debug\Polish.dll
+E:\Projects\Developing\WindowsSoftberyPlayer\pl_PL\bin\Debug\Polish.pdb
+E:\Projects\Developing\WindowsSoftberyPlayer\pl_PL\obj\Debug\Polish.csproj.AssemblyReference.cache
+E:\Projects\Developing\WindowsSoftberyPlayer\pl_PL\obj\Debug\Polish.csproj.CoreCompileInputs.cache
+E:\Projects\Developing\WindowsSoftberyPlayer\pl_PL\obj\Debug\Polish.dll
+E:\Projects\Developing\WindowsSoftberyPlayer\pl_PL\obj\Debug\Polish.pdb
+E:\Projects\Developing\WindowsSoftberyPlayer\pl_PL\bin\Debug\Translator.dll
+E:\Projects\Developing\WindowsSoftberyPlayer\pl_PL\bin\Debug\Translator.pdb
+E:\Projects\Developing\WindowsSoftberyPlayer\pl_PL\obj\Debug\Polish.csproj.CopyComplete
