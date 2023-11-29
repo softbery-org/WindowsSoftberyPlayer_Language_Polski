@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Translator;
 
 
-namespace Polish
+namespace Polski
 {
     public class pl_PL : ILanguage
     {
